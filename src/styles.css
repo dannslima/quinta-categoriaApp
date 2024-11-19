@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+/*definir o background global para a cor preta*/
+
+app-root {
+    background-color: black;
+    color: white;
+    min-height: 100vh; /* Garante que cobre toda a altura da tela */
+    display: block;
+  }
+  
